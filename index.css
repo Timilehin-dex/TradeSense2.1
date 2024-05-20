@@ -445,7 +445,8 @@ header img {
 }
 footer {
   padding: 50px 0;
-  background-color: rgb(14, 29, 52);
+  /* background-color: rgb(14, 29, 52); */
+  background-image: linear-gradient(rgb(7, 34, 47), rgb(14, 29, 52));
 }
 footer .foot-img {
   margin-bottom: 25px;
